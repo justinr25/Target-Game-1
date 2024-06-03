@@ -177,8 +177,8 @@ function animate() {
 		return;
 	}
 
-	console.log(target.dx);
-	console.log(target.dy);
+	// console.log(target.dx);
+	// console.log(target.dy);
 }
 
 init();
